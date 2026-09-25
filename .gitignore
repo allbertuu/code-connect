@@ -14,3 +14,4 @@ todos.json
 mcp-todos.json
 # Vitest reports and artifacts
 .vitest/
+src/routes/-index.test.tsx
